@@ -1,3 +1,8 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5ko8dkguvmjnl9ae?svg=true)](https://ci.appveyor.com/project/OksanaBannova/crud)
+
+[GitHub Pages](https://oksanabannova.github.io/CRUD/)
+
+
 CRUD
 ===
 
