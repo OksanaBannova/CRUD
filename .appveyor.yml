@@ -1,6 +1,6 @@
 image: Ubuntu2204  # образ для сборки
 
-stack: node 20.11.0  # окружение
+stack: node 20.19.0  # окружение
 
 branches:
   only:
